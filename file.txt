@@ -5,3 +5,4 @@ Adding commit 4
 Adding cm1
 Adding cm2
 Adding cm3
+Adding commit 4
