@@ -3,6 +3,7 @@ Adding two
 Adding commit 3
 Adding commit 4
 Adding cm1
-Adding2
+Adding1
+Adding2 
 
 
